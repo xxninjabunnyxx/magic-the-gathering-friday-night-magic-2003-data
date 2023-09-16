@@ -1,0 +1,17 @@
+---
+object: set
+id: 338dca3f-bcaf-43f8-a5a8-0aeaa241dec5
+code: f03
+name: Friday Night Magic 2003
+uri: https://api.scryfall.com/sets/338dca3f-bcaf-43f8-a5a8-0aeaa241dec5
+scryfall_uri: https://scryfall.com/sets/f03
+search_uri: https://api.scryfall.com/cards/search?include_extras=true&include_variations=true&order=set&q=e%3Af03&unique=prints
+released_at: '2003-01-01'
+set_type: promo
+card_count: 13
+digital: false
+nonfoil_only: false
+foil_only: true
+block_code: fnm
+block: Friday Night Magic
+icon_svg_uri: https://svgs.scryfall.io/sets/dci.svg?1694404800
